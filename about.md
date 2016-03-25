@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Thanks for checking out my blog and hopefully learning a few new things.
+Hello world! This blog was created to serve as a resource for people interested in learning some concepts of front-end web development and javascript.
+
+The expansive universe that is programming can be really overwhelming and challenging at times but have no fear! You are not in this alone.
 
 ### More Information:
 
-Max enjoys snowboard mountaineering, rock climbing and javascript.
+Max enjoys snowboard mountaineering, climbing, and developing cool things for the web.
 
 ### Contact me:
 

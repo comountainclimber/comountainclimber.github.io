@@ -16,9 +16,12 @@ If you like what you see you can create a blog using this exact theme which can 
 <a href="https://github.com/barryclark/jekyll-now " > here</a>.
 
   Once you have found a theme you will 'fork' a starting point. Click the 'Fork' button in the top right corner.
-<div style="text-align:center">
-<img src="/images/SS1.png" />
-</div>
+<!-- <div style="text-align:center"> -->
+<!-- <img src= ({{ site.baseurl }} "/images/SS1.png)" /> -->
+<!-- ![screen-shot](/images/SS1.png) -->
+
+![screen-shot]({{ site.url }}/images/SS1.png)
+<!-- </div> -->
 
 <h3> 3.) Host on GitHub </h3>
 Click the 'settings' button on your forked repo and change the name to 
@@ -31,9 +34,10 @@ At this point if you have followed the steps above, you should see the your blog
 
 <h3> 5.) Create your first blog post! </h3>
 To make edits and create new posts simply open the <code> _posts </code> folder
-<div style="text-align:center">
+<!-- <div style="text-align:center">
 <img src="/images/SS2.png" />
-</div>
+</div> -->
+![screen-shot]({{ site.url }}/images/SS2.png)
 
 click <code> 2016-3-25-Hello-World.md </code> to view the example post so that you can get started. Please not that you must replicate the formatting in the title of the .md file (year-month-day-post-name.md) <br><br>
 

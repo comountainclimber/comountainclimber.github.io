@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Thanks for checking out my blog and hopefully learning a few new things.
 
-### More Information
+### More Information:
 
-A place to include any other types of information that you'd like to include about yourself.
+Max enjoys snowboard mountaineering, rock climbing and javascript.
 
-### Contact me
+### Contact me:
 
-[email@domain.com](mailto:email@domain.com)
+[mlasky46@gmail.com](mailto:mlasky46@gmail.com)

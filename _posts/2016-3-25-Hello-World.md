@@ -20,7 +20,7 @@ If you like what you see you can create a blog using this exact theme which can 
 <!-- <img src= ({{ site.baseurl }} "/images/SS1.png)" /> -->
 <!-- ![screen-shot](/images/SS1.png) -->
 
-![screen-shot]({{ site.url }}/images/SS1.png)
+![screen-shot]({{ site.baseurl }}/images/SS1.png)
 <!-- </div> -->
 
 <h3> 3.) Host on GitHub </h3>
@@ -37,7 +37,7 @@ To make edits and create new posts simply open the <code> _posts </code> folder
 <!-- <div style="text-align:center">
 <img src="/images/SS2.png" />
 </div> -->
-![screen-shot]({{ site.url }}/images/SS2.png)
+![screen-shot]({{ site.baseurl }}/images/SS2.png)
 
 click <code> 2016-3-25-Hello-World.md </code> to view the example post so that you can get started. Please not that you must replicate the formatting in the title of the .md file (year-month-day-post-name.md) <br><br>
 

@@ -3,7 +3,7 @@ layout: post
 title: Creating a blog using Jekyll and GitHub pages is super easy!
 ---
 
-<a href="https://www.github.com" > GitHub </a> is really sweet. Using Github Pages you can deploy a blog for free exremely quickly and easily and best of all you do not need to use the command line (unless you want to) or have any previous HTML/CSS/JS experience (having some wont hurt).
+<a target="blank" href="https://www.github.com" > GitHub </a> is really sweet. Using Github Pages you can deploy a blog for free exremely quickly and easily and best of all you do not need to use the command line (unless you want to) or have any previous HTML/CSS/JS experience (having some wont hurt).
 
 To get a blog up and running there are a few simple steps you need to follow:
 

@@ -3,9 +3,9 @@ layout: post
 title: Traversing nested JSON using recursion
 ---
 
-Leveraging a recursive algorithm is the best way to create maintainable code when performing logic on a graph.
+In this post I will look at a simple use case of depth first search in JavaScript when performing logic on a graph.
 
-Recently, I ran into the challenge of trying to perform some simple string maniuplation on some JSON that had a repeated nested structure. For our purposes lets use the following as our working example which replicates the structure of the graph I was dealing with:
+Recently, I ran into the challenge of trying to perform simple string maniuplation on some JSON that had a repeated nested structure. For our purposes lets use the following as our working example which replicates the structure of the graph I was dealing with:
 
 <pre> 
 var data = {

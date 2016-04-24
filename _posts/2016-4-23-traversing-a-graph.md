@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Traversing nested JSON using recursion
+title: Traversing JSON using recursion
 ---
 
 In this post I will look at a simple use case of depth first search in JavaScript when performing logic on a graph.

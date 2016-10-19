@@ -289,6 +289,26 @@ pre {
   }
 }
 
+
+
+.site-avatar:hover {
+  //content: url('/images/test.png');
+  //transition: transform 250ms;
+  background-color: #A0AAFF;
+  //padding: 1px;
+  transition: all 0.5s ease;
+  //transform: rotate(180deg);
+    // float: left;
+    // width: 70px;
+    // height: 70px;
+    // margin-right: 15px;
+  //   &:hover:after {
+  //     transition: all 0.5s ease;
+  // transform: rotate(180deg);
+  
+}
+
+
 // .wrapper-footer {
 //   margin-top: 50px;
 //   border-top: 1px solid #ddd;
